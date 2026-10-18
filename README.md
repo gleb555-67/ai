@@ -20,3 +20,7 @@ Telegram-бот, который генерирует изображения по
 ```bash
 git clone https://github.com/your-username/ai-image-bot.git
 cd ai-image-bot
+
+## 2. Установите зависимости
+```bash
+pip install -r requirements.txt
