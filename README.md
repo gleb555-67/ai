@@ -18,8 +18,8 @@ Telegram-бот, который генерирует изображения по
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/your-username/ai-image-bot.git
-cd ai-image-bot
+git clone https://github.com/gleb555-67/ai.git
+cd ai
 ```
 
 ## 2. Установите зависимости
